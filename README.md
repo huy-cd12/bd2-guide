@@ -10,6 +10,9 @@ Mục Lục
   - [Mục tiêu của Guide](#mục-tiêu-của-guide)
   - [🚨 Lưu ý quan trọng](#-lưu-ý-quan-trọng)
   - [Potential of Tear](#potential-of-tear)
+    - [Team vật lí](#team-vật-lí)
+    - [Team phép](#team-phép)
+    - [Team vật lí + phép](#team-vật-lí--phép)
   - [Spark of rampage](#spark-of-rampage)
   - [Ability skill](#ability-skill)
   - [Xây dựng đội hình](#xây-dựng-đội-hình)
@@ -42,7 +45,8 @@ Mục Lục
 - Không sử dụng <img src="assets/image.png" width="40" alt="Burst"> [**Burst**](#spark-of-rampage) or [**bút**](#spark-of-rampage) 1 cách bừa bãi vì nó là tài nguyên có hạn
 - Không <img src="assets/image-3.png" width="40" alt="Awakening"> [**Awakening**](#awakening) 1 linh tinh
 - không sử dụng <img src="assets/image-2.png" width="40" alt="Awakening"> [**Refining crytal**](#refine-gear) cho [**Weapons**](#weapons) Tier thấp
--
+- Hạn chế sử dụng <img src="assets/image-13.png" width="40" alt="Powder"> [**Refining powder**](#refine-gear) cho [**Weapons**](#weapons) ở đầu game, Vũ khí 18 điểm là sử dụng khá ok rồi
+- 
 
 ## Potential of Tear
 
@@ -50,35 +54,27 @@ Và còn rất nhiều nhiều Costume khác phải POT để đánh Boss Event,
 
 Sử dụng ưu tiên cho các **Supports** buff trước. Đề xuất theo 2 hướng cơ bản:
 
-Team vật lí:
+### Team vật lí
 
-**Liberta**
-![Liberta](assets/image-4.png)
+| Liberta | Lathel |
+| :---: | :---: |
+| ![Liberta](assets/image-14.png) | ![Lathel](assets/image-15.png) |
 
-**Lathel**
-![Lathel](assets/image-5.png)
+### Team phép
 
-Team phép:
-**Helelna**
-![Helena](assets/image-6.png)
-Helena
+| Helena | Granadair |
+| :---: | :---: |
+| ![Helena](assets/image-6.png) | ![Granadair](assets/image-7.png) |
 
-**Granadair**
-![Granadair](assets/image-7.png)
+### Team vật lí + phép
 
-**Cos phù hợp cả 2 team**
+| Diana | Diana |
+| :---: | :---: |
+| ![Diana](assets/image-8.png) | ![Diana](assets/image-9.png) |
 
-**Diana**
-![Diana](assets/image-8.png)
-
-**Diana**
-![Diana](assets/image-9.png)
-
-**Terresa**
-![Terresa](assets/image-10.png)
-
-**Terresa ít xài hơn**
-![Terresa](assets/image-11.png)
+| Terresa | Terresa ít dùng hơn |
+| :---: | :---: |
+| ![Terresa](assets/image-10.png) | ![Terresa](assets/image-11.png) |
 
 ## Spark of rampage
 
