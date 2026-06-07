@@ -98,6 +98,20 @@ Nguồn:Wiki BD2
 | Taros Tactical Manual |30 | 1 tháng |
 
 ## Ability skill
+**Set Up chạy map**
+![ability skill](assets/image-12.png)
+
+1. Search: Dùng để phát hiện tài nguyên ẩn trong ma
+2. Apsorption: Dùng đề hút toàn bộ tài nguyên trên map
+3. OverPower: Dùng để tông quái trên map đỡ tốn thời gian đánh
+4. Assemble: Dùng hút mấy con thỏ xanh trên map kiếm tí vàng
+5. Rush: Dùng để tăng tốc chạy ( nên sử dụng Luven vì nó chạy nhanh nhất)
+
+Lộ trình chạy: từ map 1 => map cao nhất
+
+Dùng search -> Apsorption -> OverPower -> Assemble -> Rush
+
+Theo nguồn Trust me bro chạy full thì 1 tuần cày được 5-6m vàng
 
 ## Xây dựng đội hình
 
