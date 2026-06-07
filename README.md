@@ -17,6 +17,14 @@ Mục Lục
   - [Awakening](#awakening)
   - [Refine Gear](#refine-gear)
   - [Weapons](#weapons)
+  - [Bonding](#bonding)
+  - [Event shop](#event-shop)
+  - [Golden Thread Shop](#golden-thread-shop)
+  - [Guild Shop](#guild-shop)
+  - [Powder of Hope Shop](#powder-of-hope-shop)
+  - [The Golden Colosseum Shop](#the-golden-colosseum-shop)
+  - [Refinement Remnant Shop](#refinement-remnant-shop)
+  - [Mirror Wars Shop](#mirror-wars-shop)
 
 ## Mục tiêu của Guide
 
@@ -39,7 +47,6 @@ Mục Lục
 ## Potential of Tear
 
 Và còn rất nhiều nhiều Costume khác phải POT để đánh Boss Event, Boss Guild Raid. Nên tùy mục đích chơi có thể sẽ sử dụng POT và team đánh Boss. Dưới đây chỉ là những cos cơ bản dùng nhiều.
-
 
 Sử dụng ưu tiên cho các **Supports** buff trước. Đề xuất theo 2 hướng cơ bản:
 
@@ -73,24 +80,22 @@ Helena
 **Terresa ít xài hơn**
 ![Terresa](assets/image-11.png)
 
-
-
 ## Spark of rampage
 
 Dùng để nâng sức mạnh skill của nhân vật hơn nữa, cụ thể check từng cos.
 
 Nguồn:Wiki BD2
 
-| Tên Cửa hàng (Shop) | Số lượng |
-| :--- | :---: |
-| **Event shop** | 30 |
-| Golden Thread Shop | 55 |
-| Guild Shop | 50|
-| Powder of Hope Shop | 55|
-| The Golden Colosseum Shop |55|
-| Refinement Remnant Shop |200 |
-| Mirror Wars Shop |55 |
-| Taros Tactical Manual |30 | 
+| Tên Cửa hàng (Shop) | Số lượng | Thời gian reset |
+| :--- | :---: | :--: | 
+| **Event shop** | 30x2 | 1 tháng |
+| Golden Thread Shop | 55 | 1 tháng | 
+| Guild Shop | 50| 1 tháng |
+| Powder of Hope Shop | 55| 1 tháng |
+| The Golden Colosseum Shop |55| 1 tháng |
+| Refinement Remnant Shop |200 | 1 tháng |
+| Mirror Wars Shop |55 | 1 tháng |
+| Taros Tactical Manual |30 | 1 tháng |
 
 ## Ability skill
 
@@ -103,3 +108,19 @@ Nguồn:Wiki BD2
 ## Refine Gear
 
 ## Weapons
+
+## Bonding
+
+## Event shop
+
+## Golden Thread Shop
+
+## Guild Shop
+
+## Powder of Hope Shop
+
+## The Golden Colosseum Shop
+
+## Refinement Remnant Shop
+
+## Mirror Wars Shop
