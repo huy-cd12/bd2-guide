@@ -1,5 +1,11 @@
 # **GAME GUIDE CƠ BẢN VÀ NHỚ ĐỌC LƯU Ý TRƯỚC FUCK YOU**
 
+**From**: Lốc Xoáy Tinh Hoàn
+
+**Source**: 
+
+- Trust me bruh trong ae discord
+- <https://browndust2.miraheze.org/wiki/Character>
 ------
 
 Guide bố mày viết theo kinh nghiệm cá nhân và suy nghĩ cá nhân nên có  thể đúng với người này sai với người khác vì vậy nào lèm bèm vô discord ping **@Anash** solo.
@@ -53,15 +59,15 @@ Mục Lục
 **Set Up chạy map**
 ![ability skill](assets/ability-skill.png)
 
-1. Search: Dùng để phát hiện tài nguyên ẩn trong ma
-2. Apsorption: Dùng đề hút toàn bộ tài nguyên trên map
-3. OverPower: Dùng để tông quái trên map đỡ tốn thời gian đánh
-4. Assemble: Dùng hút mấy con thỏ xanh trên map kiếm tí vàng
-5. Rush: Dùng để tăng tốc chạy ( nên sử dụng Luven vì nó chạy nhanh nhất)
+1. **Search**: Dùng để phát hiện tài nguyên ẩn trong map
+2. **Apsorption**: Dùng đề hút toàn bộ tài nguyên trên map
+3. **OverPower**: Dùng để tông quái trên map đỡ tốn thời gian đánh
+4. **Assemble**: Dùng hút mấy con thỏ xanh trên map kiếm tí vàng
+5. **Rush**: Dùng để tăng tốc chạy ( nên sử dụng Luven vì nó chạy nhanh nhất)
 
 Lộ trình chạy: từ map 1 => map cao nhất
 
-Dùng search -> Apsorption -> OverPower -> Assemble -> Rush
+Dùng **Search** -> **Apsorption** -> **OverPower** -> **Assemble** -> **Rush**
 
 Theo nguồn Trust me bro chạy full thì 1 tuần cày được 5-6m vàng
 
