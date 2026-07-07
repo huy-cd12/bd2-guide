@@ -105,7 +105,7 @@ Không có một đội hình cố định dùng cho mọi content. Tùy boss, m
 | Terresa | Helena | Granadair |
 | :---: | :---: | :---: |
 | <img src="assets/ter1.png" width="180" height=" 180 " alt="Terresa"> | <img src="assets/helena1.png" width="180" height=" 180 " alt="Helena"> | <img src="assets/granadair1.png" width="180" height=" 180 " alt="Granadair"> |
-| Buff % DMG Deal<br>Điều kiện: đánh <= 5 mục tiêu<br>Mục tiêu <= 5 chain | Buff %matk<br>Buff crit<br>Hồi máu | Buff %matk<br>Hồi sp |
+| Buff % DMG Deal<br><= 5 chain | Buff %matk<br>Buff crit<br>Hồi máu | Buff %matk<br>Hồi sp |
 
 | Granadair 2 | Elpis | Terresa 2 |
 | :---: | :---: | :---: |
@@ -119,7 +119,7 @@ Còn lại chọn **2 DPS vật lí tùy ý**, ưu tiên DPS có **range skill t
 
 ### Team 1
 
-| Rou | Liberta | Granadair|
+| Rou | Liberta | Granadair |
 | :---: | :---: | :---: |
 | <img src="assets/rou1.png" width="180" height=" 180 " alt="Rou"> | <img src="assets/liberta1.png" width="180" height=" 180 " alt="Liberta"> | <img src="assets/granadair1.png" width="180" height=" 180 " alt="Granadair"> |
 
