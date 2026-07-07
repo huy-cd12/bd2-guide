@@ -19,8 +19,11 @@ Guide bố mày viết theo kinh nghiệm cá nhân và suy nghĩ cá nhân nên
   - [🚨 Lưu ý quan trọng](#-lưu-ý-quan-trọng)
   - [Ability skill](#ability-skill)
   - [Xây dựng đội hình](#xây-dựng-đội-hình)
-    - [Team vật lí](#team-vật-lí)
-    - [Ví dụ combo support vật lí](#ví-dụ-combo-support-vật-lí)
+  - [Danh sách buffer cơ bản](#danh-sách-buffer-cơ-bản)
+  - [Ví dụ team vật lí cơ bản](#ví-dụ-team-vật-lí-cơ-bản)
+    - [Team 1](#team-1)
+    - [Team 2](#team-2)
+    - [Team 3](#team-3)
   - [Tier List cá nhân](#tier-list-cá-nhân)
   - [Awakening](#awakening)
   - [Refine Gear](#refine-gear)
@@ -34,9 +37,6 @@ Guide bố mày viết theo kinh nghiệm cá nhân và suy nghĩ cá nhân nên
   - [Refinement Remnant Shop](#refinement-remnant-shop)
   - [Mirror Wars Shop](#mirror-wars-shop)
   - [Potential of Tear](#potential-of-tear)
-    - [Team vật lí](#team-vật-lí-1)
-    - [Team phép](#team-phép)
-    - [Team vật lí + phép](#team-vật-lí--phép)
   - [Spark of rampage](#spark-of-rampage)
 
 ## Mục tiêu của Guide
@@ -79,64 +79,78 @@ Theo nguồn Trust me bro chạy full thì 1 tuần cày được 5-6m vàng.
 
 ## Xây dựng đội hình
 
-### Team vật lí
+Một đội hình cơ bản thường gồm **2-3 support/buffer**, còn lại là **DPS**.
 
-**Các buffer cơ bản**
+Ưu tiên chọn support theo loại team:
 
-| Diana 1 | Liberta | Lathel |
+- **Team vật lí:** dùng các buffer tăng ATK, Crit Rate, CRD.
+- **Team phép:** dùng các buffer tăng MATK, Crit Rate, CRD.
+- **Team khắc hệ:** dùng Diana khi DPS có lợi thế hệ với mục tiêu.
+- **Team boss:** chọn support theo điều kiện skill, chain, range và loại damage của DPS.
+
+Không có một đội hình cố định dùng cho mọi content. Tùy boss, map, hệ quái và DPS đang có mà thay support cho phù hợp.
+
+## Danh sách buffer cơ bản
+
+| Diana 1 | Diana 2 | Liberta |
 | :---: | :---: | :---: |
-| ![Diana 1](assets/diana1.png) | ![Liberta](assets/liberta1.png) | ![Lathel](assets/lathel1.png) |
-| Buff thêm dmg khi mục tiêu khắc hệ<br>Một tí Crit Rate | Buff %ATK<br>Hồi SP<br>Crit Rate | Buff %ATK |
+| <img src="assets/diana1.png" width="180" height=" 180 " alt="Diana 1"> | <img src="assets/diana2.png" width="180" height=" 180 " alt="Diana 2"> | <img src="assets/liberta1.png" width="180" height=" 180 " alt="Liberta"> |
+| Tăng damage khắc hệ | Tăng damage khắc hệ | Buff %ATK<br>Hồi SP<br>Crit Rate |
 
-| Arines | Rou | Terresa |
+| Lathel | Arines | Rou |
 | :---: | :---: | :---: |
-| ![Arines](assets/ari1.png) | ![Rou](assets/rou1.png) | ![Terresa](assets/ter1.png) |
-| Buff %ATK<br>Crit Rate | Buff giáp<br>Crit Rate<br>%CRD | Buff % DMG Deal<br>Điều kiện: đánh <= 5 mục tiêu<br>Mục tiêu <= 5 chain |
+| <img src="assets/lathel1.png" width="180" height=" 180 " alt="Lathel"> | <img src="assets/ari1.png" width="180" height=" 180 " alt="Arines"> | <img src="assets/rou1.png" width="180" height=" 180 " alt="Rou"> |
+| Buff %ATK | Buff %ATK<br>Crit Rate | Buff giáp<br>Crit Rate<br>%CRD |
 
-Một đội hình cơ bản bao gồm từ **2-3 support**, còn lại là các **DPS** sở hữu **range skill** to.
-
-Đặc biệt **Diana 1** chỉ sử dụng khi có **mục tiêu bị DPS khắc hệ**.
-
-### Ví dụ combo support vật lí
-
-**Combo 1**
-
-| Liberta | Lathel | Rou |
+| Terresa | Helena | Granadair |
 | :---: | :---: | :---: |
-| ![Liberta](assets/liberta1.png) | ![Lathel](assets/lathel1.png) | ![Rou](assets/rou1.png) |
-| Buff %ATK<br>Hồi SP<br>Crit Rate | Buff %ATK | Buff giáp<br>Crit Rate<br>%CRD |
+| <img src="assets/ter1.png" width="180" height=" 180 " alt="Terresa"> | <img src="assets/helena1.png" width="180" height=" 180 " alt="Helena"> | <img src="assets/granadair1.png" width="180" height=" 180 " alt="Granadair"> |
+| Buff % DMG Deal<br>Điều kiện: đánh <= 5 mục tiêu<br>Mục tiêu <= 5 chain | Buff %matk<br>Buff crit<br>Hồi máu | Buff %matk<br>Hồi sp |
 
-**Combo 2**
-
-| Liberta | Arines | Lathel |
+| Granadair 2 | Elpis | Terresa 2 |
 | :---: | :---: | :---: |
-| ![Liberta](assets/liberta1.png) | ![Arines](assets/ari1.png) | ![Lathel](assets/lathel1.png) |
-| Buff %ATK<br>Hồi SP<br>Crit Rate | Buff %ATK<br>Crit Rate | Buff %ATK |
+| <img src="assets/granadair2.png" width="180" height=" 180 " alt="Granadair 2"> | <img src="assets/elpis.png" width="180" height=" 180 " alt="Elpis"> | <img src="assets/ter2.png" width="180" height=" 180 " alt="Terresa 2"> |
+| Buff damage dealt<br>Hấp thụ debuff | Buff %MATK<br>Crit Rate | Buff %ATK<br>Buff %MATK<br>Hồi máu |
 
-**Combo 3**
+## Ví dụ team vật lí cơ bản
 
-| Liberta | Rou | Terresa |
+Các team dưới đây chỉ là ví dụ bộ **3 buffer**, không bắt buộc cố định.  
+Còn lại chọn **2 DPS vật lí tùy ý**, ưu tiên DPS có **range skill to**.
+
+### Team 1
+
+| Rou | Liberta | Granadair |
 | :---: | :---: | :---: |
-| ![Liberta](assets/liberta1.png) | ![Rou](assets/rou1.png) | ![Terresa](assets/ter1.png) |
-| Buff %ATK<br>Hồi SP<br>Crit Rate | Buff giáp<br>Crit Rate<br>%CRD | Buff % DMG Deal<br>Điều kiện: đánh <= 5 mục tiêu<br>Mục tiêu <= 5 chain |
+| <img src="assets/rou1.png" width="180" height=" 180 " alt="Rou"> | <img src="assets/liberta1.png" width="180" height=" 180 " alt="Liberta"> | <img src="assets/granadair1.png" width="180" height=" 180 " alt="Granadair"> |
+
+### Team 2
+
+| Rou | Liberta | Arines |
+| :---: | :---: | :---: |
+| <img src="assets/rou1.png" width="180" height=" 180 " alt="Rou"> | <img src="assets/liberta1.png" width="180" height=" 180 " alt="Liberta"> | <img src="assets/ari1.png" width="180" height=" 180 " alt="Arines"> |
+
+### Team 3
+
+| Arines | Lathel | Terresa 2 |
+| :---: | :---: | :---: |
+| <img src="assets/ari1.png" width="180" height=" 180 " alt="Arines"> | <img src="assets/lathel1.png" width="180" height=" 180 " alt="Lathel"> | <img src="assets/ter2.png" width="180" height=" 180 " alt="Terresa 2"> |
+
+> **Core vật lí:** Ưu tiên **Liberta**.  
+> Nếu chưa có **Liberta**, có thể dùng **Lathel** từ vé cầu vồng để thay thế tạm.
 
 ## Tier List cá nhân
 
-> Phần này có thể thêm sau theo format:
->
-> | Nhân vật | Vai trò | Độ ưu tiên | Ghi chú |
-> | :---: | :---: | :---: | :--- |
-> | Tên nhân vật | DPS / Support / Tank | Cao / Trung bình / Thấp | Lý do nên dùng |
-
+![Tier list](assets/tierlist.png)
+From: Asnassdfaj
 ## Awakening
 
 > **Awakening** giúp tăng sức mạnh nhân vật/costume nhưng tài nguyên có hạn.
 >
 > Ưu tiên Awakening cho:
 >
-> - DPS chính sử dụng lâu dài
-> - Support core dùng nhiều content
-> - Nhân vật dùng cho boss/event/guild raid
+> 1. DPS chính sử dụng lâu dài
+> 2. Support core dùng nhiều content
+> 3. Nhân vật dùng cho boss/event/guild raid
 >
 > Không nên Awakening linh tinh ở đầu game.
 
@@ -153,131 +167,24 @@ Một đội hình cơ bản bao gồm từ **2-3 support**, còn lại là các
 
 ## Weapons
 
-> Ưu tiên weapon cho DPS chính trước.
->
-> Gợi ý:
->
-> - DPS vật lí: ưu tiên ATK / Crit Damage / Crit Rate tùy build
-> - DPS phép: ưu tiên MATK / Crit Damage / Crit Rate tùy build
-> - Support: ưu tiên chỉ số giúp sống sót hoặc đáp ứng yêu cầu rotation
->
-> Không nên đầu tư quá sâu vào weapon tier thấp.
-
 ## Bonding
-
-> **Bonding** giúp tăng thêm chỉ số hoặc mở thêm lợi ích cho nhân vật.
->
-> Ưu tiên bonding cho:
->
-> - DPS chính
-> - Support core
-> - Nhân vật dùng nhiều trong boss/event/guild raid
->
-> Không nên dàn trải quá nhiều nếu tài nguyên còn ít.
 
 ## Event shop
 
-> Event shop nên ưu tiên mua tài nguyên giới hạn trước.
->
-> Gợi ý ưu tiên:
->
-> 1. Tear / Pot nếu có
-> 2. Burst / Spark nếu có
-> 3. Vé roll / tài nguyên nâng cấp quan trọng
-> 4. Gold / nguyên liệu phụ
->
-> Tùy event mà thứ tự có thể thay đổi.
 
 ## Golden Thread Shop
 
-> Golden Thread Shop thường dùng để đổi các tài nguyên quan trọng.
->
-> Ưu tiên:
->
-> - Tài nguyên hiếm
-> - Costume/dupe quan trọng nếu có
-> - Các vật phẩm giúp nâng cấp lâu dài
->
-> Không nên tiêu bừa nếu chưa biết acc đang cần gì.
-
 ## Guild Shop
-
-> Guild Shop nên mua các vật phẩm giới hạn theo tháng.
->
-> Ưu tiên:
->
-> - Tear / Pot
-> - Burst / Spark
-> - Tài nguyên nâng cấp quan trọng
->
-> Nên tham gia guild sớm để tích tài nguyên đều.
 
 ## Powder of Hope Shop
 
-> Powder of Hope Shop dùng để đổi costume hoặc tài nguyên quan trọng.
->
-> Lưu ý:
->
-> - Không đổi bừa costume chỉ vì thích
-> - Ưu tiên costume support hoặc DPS mạnh dùng lâu dài
-> - Nên hỏi thêm nếu không chắc costume đó có đáng đổi không
-
 ## The Golden Colosseum Shop
-
-> Shop này nên ưu tiên tài nguyên giới hạn theo tháng.
->
-> Gợi ý:
->
-> - Tear / Pot
-> - Burst / Spark
-> - Tài nguyên nâng cấp quan trọng
->
-> Tùy acc mà có thể thay đổi ưu tiên.
 
 ## Refinement Remnant Shop
 
-> Shop này liên quan đến tài nguyên refine.
->
-> Ưu tiên mua tài nguyên giúp tối ưu gear, nhưng không nên dùng quá sớm nếu acc chưa có gear tốt.
-
 ## Mirror Wars Shop
 
-> Mirror Wars Shop nên mua các tài nguyên giới hạn.
->
-> Gợi ý:
->
-> - Tear / Pot
-> - Burst / Spark
-> - Tài nguyên nâng cấp quan trọng
->
-> Cố gắng chơi đều để tích shop theo thời gian.
-
 ## Potential of Tear
-
-Và còn rất nhiều Costume khác phải POT để đánh Boss Event, Boss Guild Raid. Nên tùy mục đích chơi có thể sẽ sử dụng POT và team đánh Boss. Dưới đây chỉ là những cos cơ bản dùng nhiều.
-
-Sử dụng ưu tiên cho các **Supports** buff trước. Đề xuất theo 2 hướng cơ bản:
-
-### Team vật lí
-
-| Liberta | Lathel |
-| :---: | :---: |
-| ![Liberta](assets/liberta1.png) | ![Lathel](assets/lathel1.png) |
-| **Tác dụng khi POT:** Tăng hiệu quả support / cải thiện buff cho team vật lí.<br>**Ưu tiên:** Cao nếu chơi physical team.<br>**Ghi chú:** Core support nên cân nhắc đầu tư sớm. | **Tác dụng khi POT:** Tăng sức mạnh buff ATK / hỗ trợ burst damage.<br>**Ưu tiên:** Cao nếu dùng nhiều DPS vật lí.<br>**Ghi chú:** Một trong các lựa chọn POT quan trọng cho team vật lí. |
-
-### Team phép
-
-| Helena | Granadair |
-| :---: | :---: |
-| ![Helena](assets/helena1.png) | ![Granadair](assets/granadair1.png) |
-| **Tác dụng khi POT:** Hỗ trợ team phép / tăng damage phép hoặc khả năng vận hành team.<br>**Ưu tiên:** Cao nếu chơi magic team.<br>**Ghi chú:** Support phép quan trọng, check đúng costume trước khi POT. | **Tác dụng khi POT:** Hỗ trợ team phép / tăng hiệu quả buff hoặc damage setup.<br>**Ưu tiên:** Tùy đội hình phép đang chơi.<br>**Ghi chú:** Nên POT nếu dùng thường xuyên trong boss/content phép. |
-
-### Team vật lí + phép
-
-| Diana 1 | Diana 2 | Terresa |
-| :---: | :---: | :---: |
-| ![Diana 1](assets/diana1.png) | ![Diana 2](assets/diana2.png) | ![Terresa](assets/ter1.png) |
-| **Tác dụng khi POT:** Tăng hiệu quả buff elemental advantage damage.<br>**Ưu tiên:** Cao nếu thường đánh boss có lợi thế hệ.<br>**Ghi chú:** Dùng tốt cho cả team vật lí và phép khi có khắc hệ. | **Tác dụng khi POT:** Hỗ trợ thêm cho Diana tùy costume / tăng tính linh hoạt.<br>**Ưu tiên:** Tùy account và content.<br>**Ghi chú:** Check đúng costume trước khi dùng Tear. | **Tác dụng khi POT:** Tăng hiệu quả support / buff damage linh hoạt.<br>**Ưu tiên:** Trung bình đến cao tùy team.<br>**Ghi chú:** Dùng được trong nhiều đội hình, nhưng vẫn nên ưu tiên core support trước. |
 
 ## Spark of rampage
 
