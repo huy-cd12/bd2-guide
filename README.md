@@ -119,7 +119,7 @@ Còn lại chọn **2 DPS vật lí tùy ý**, ưu tiên DPS có **range skill t
 
 ### Team 1
 
-| Rou | Liberta | Granadair |
+| Rou | Liberta | Granadair|
 | :---: | :---: | :---: |
 | <img src="assets/rou1.png" width="180" height=" 180 " alt="Rou"> | <img src="assets/liberta1.png" width="180" height=" 180 " alt="Liberta"> | <img src="assets/granadair1.png" width="180" height=" 180 " alt="Granadair"> |
 
